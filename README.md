@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![mandalorian-baby-yoda](https://user-images.githubusercontent.com/89876548/215606463-3093fc62-4fc8-4ee3-af1d-0ef1ccb1ba7b.gif)
+
 <div align="center">
   <a href="https://github.com/miyazatojj">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miyazatojj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
