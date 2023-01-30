@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://giphy.com/embed/KziKCpvrGngHbYjaUF" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/toyfantv-KziKCpvrGngHbYjaUF">via GIPHY</a></p>
-
 <div align="center">
   <a href="https://github.com/miyazatojj">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miyazatojj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
