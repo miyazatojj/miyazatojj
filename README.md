@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![baby-yoda-wave](https://user-images.githubusercontent.com/89876548/215618964-7b0e5f03-e6ad-46c1-9ba3-1b06523129e6.gif)
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/miyazatojj">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miyazatojj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyazatojj&layout=compact&langs_count=7&theme=tokyonight"/>
