@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![giphy](https://user-images.githubusercontent.com/89876548/215617979-0c845ada-79f6-4da8-bf9b-3d6381e61772.gif)
+![baby-yoda-wave](https://user-images.githubusercontent.com/89876548/215618964-7b0e5f03-e6ad-46c1-9ba3-1b06523129e6.gif)
 
 <div align="center">
   <a href="https://github.com/miyazatojj">
