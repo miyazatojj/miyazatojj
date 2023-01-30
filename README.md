@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/mandalorian-baby-yoda-baby-yoda-wave-magic-hand-thing-baby-yoda-magic-hand-thing-gif-15921838" width="350">
+  <img src="https://tenor.com/pt-BR/view/mandalorian-baby-yoda-baby-yoda-wave-magic-hand-thing-baby-yoda-magic-hand-thing-gif-15921838">
 </p>
 
 <div align="center">
