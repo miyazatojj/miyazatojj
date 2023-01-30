@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="tenor-gif-embed" data-postid="15921838" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/mandalorian-baby-yoda-baby-yoda-wave-magic-hand-thing-baby-yoda-magic-hand-thing-gif-15921838">Mandalorian Baby Yoda GIF</a>from <a href="https://tenor.com/search/mandalorian-gifs">Mandalorian GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <div align="center">
   <a href="https://github.com/miyazatojj">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miyazatojj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
