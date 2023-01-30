@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![mandalorian-baby-yoda](https://user-images.githubusercontent.com/89876548/215616657-482df36b-514d-451f-a934-6d27056d2e8a.gif)
 
 <div align="center">
   <a href="https://github.com/miyazatojj">
