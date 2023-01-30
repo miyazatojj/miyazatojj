@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![giphy](https://user-images.githubusercontent.com/89876548/215617979-0c845ada-79f6-4da8-bf9b-3d6381e61772.gif)
+
 <div align="center">
   <a href="https://github.com/miyazatojj">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miyazatojj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
