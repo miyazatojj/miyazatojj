@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/mandalorian-baby-yoda-baby-yoda-wave-magic-hand-thing-baby-yoda-magic-hand-thing-gif-15921838" width="350">
+</p>
 
 <div align="center">
   <a href="https://github.com/miyazatojj">
